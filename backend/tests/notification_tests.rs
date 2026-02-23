@@ -1,3 +1,4 @@
+// This file contains tests for notification functionality.
 mod helpers;
 
 use axum::{

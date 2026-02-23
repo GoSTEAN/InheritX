@@ -1,3 +1,4 @@
+// This file contains tests for rejection functionality.
 mod helpers;
 use axum::{
     body::Body,
